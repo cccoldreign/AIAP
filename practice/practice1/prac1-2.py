@@ -9,8 +9,10 @@ print("", firstList,'\n', secondList)
 for i in range(len(firstList)):
     if i % 2 == 0:
         thirdList.append(firstList[i])
-for i in range(len(secondList)):
-    if i % 2 != 0:
+    else:
         thirdList.append(secondList[i])
+# for i in range(len(secondList)):
+#     if i % 2 != 0:
+#         thirdList.append(secondList[i])
 
 print("", thirdList)
