@@ -1,0 +1,415 @@
+ZUZH	Panzhihua Bao'anying Airport[1]	Panzhihua, Sichuan, China
+ZSPD	Shanghai Pudong International Airport	Shanghai, China
+ZBAD	Beijing Daxing International Airport	Beijing, China
+ZBAA	Beijing Capital International Airport	Beijing, China
+YTMO	The Monument Airport[1]	Phosphate Hill, Queensland, Australia
+YPSH	Penneshaw Airport[1]	Penneshaw, South Australia, Australia
+YPPH	Perth Airport	Perth, Western Australia, Australia
+YPPD	Port Hedland International Airport	Port Hedland, Western Australia, Australia
+YPOD	Portland Airport	Portland, Victoria, Australia
+YPMQ	Port Macquarie Airport	Port Macquarie, New South Wales, Australia
+YPMH	Prominent Hill Airport[1]	Prominent Hill, South Australia, Australia
+YPLC	Port Lincoln Airport	Port Lincoln, South Australia, Australia
+YPKS	Parkes Airport[1]	Parkes, New South Wales, Australia
+YPIR	Port Pirie Airport	Port Pirie, South Australia, Australia
+YPDO	Pardoo Airport[1]	Pardoo Station, Western Australia, Australia
+YPDI	Pandie Pandie Airport[1]	Pandie Pandie Station, South Australia, Australia
+YPBO	Paraburdoo Airport	Paraburdoo, Western Australia, Australia
+YPAM	Palm Island Airport[1]	Palm Island, Queensland, Australia
+YPAG	Port Augusta Airport[1]	Port Augusta, South Australia, Australia
+YKPT	Port Keats Airfield	Wadeye (Port Keats), Northern Territory, Australia
+YBPN	Whitsunday Coast Airport	Proserpine, Queensland, Australia
+WMPA	Pangkor Airport[1]	Pangkor Island, Perak, Malaysia
+WMKP	Penang International Airport	Penang, Malaysia
+WIPY	Atung Bungsu Airport[1]	Pagar Alam, South Sumatra, Indonesia
+WIPT	Minangkabau International Airport	Padang, Indonesia
+WIPQ	Pendopo Airport[1]	Pendopo, Indonesia
+WIPP	Sultan Mahmud Badaruddin II International Airport	Palembang, Indonesia
+WIPK	Depati Amir Airport[1]	Pangkal Pinang (Pangkalpinang), Indonesia
+WIOP	Pangsuma Airport[1]	Putussibau, Indonesia
+WIOO	Supadio Airport	Pontianak, Indonesia
+WIIG	Panjang Island Airport[1]	Panjang Island, Indonesia
+WIHP	Pondok Cabe Airport[1]	South Tangerang, Indonesia
+WIDE	Tuanku Tambusai Airport[1]	Pasir Pangaraian (Pasir Pangarayan), Indonesia
+WICP	Wirasaba Airport	Purwokerto, Indonesia
+WIBB	Sultan Syarif Kasim II International Airport	Pekanbaru, Indonesia
+WBKP	Pamol Airport[1]	Pamol, Sabah, Malaysia
+WAOI	Iskandar Airport[1]	Pangkalan Bun (Pangkalanbuun), Indonesia
+WAMP	Kasiguncu Airport[1]	Poso, Indonesia
+WAGG	Tjilik Riwut Airport[1]	Palangkaraya, Indonesia
+WAFF	Mutiara Airport[1]	Palu, Indonesia
+WAEM	Buli Airport	Buli, North Maluku, Indonesia
+VYPY	Pyay Airport[1]	Pyay (Prome), Myanmar
+VYPU	Pakokku Airport[1]	Pakokku, Myanmar
+VYPT	Putao Airport[1]	Putao, Myanmar
+VYPP	Papun Airport[1]	Papun, Myanmar
+VYPK	Pauk Airport[1]	Pauk, Myanmar
+VYPA	Hpa-An Airport[1]	Hpa-An, Myanmar
+VVPR	Phan Rang Air Base[1]	Phan Rang–Tháp Chàm, Vietnam
+VVPQ	Phu Quoc International Airport	Phu Quoc Island, Vietnam
+VVPK	Pleiku Airport	Pleiku, Vietnam
+VTUJ	Surin Airport[1]	Surin, Thailand
+VTSK	Pattani Airport	Pattani, Thailand
+VTPP	Phitsanulok Airport	Phitsanulok, Thailand
+VTPB	Phetchabun Airport	Phetchabun, Thailand
+VTCP	Phrae Airport	Phrae, Thailand
+VQPR	Paro International Airport	Paro, Bhutan
+VOTY	Puducherry Airport	Pondicherry, Puducherry, India
+VOPN	Sri Sathya Sai Airport[1]	Puttaparthi, Andhra Pradesh, India
+VNPL	Phaplu Airport	Phaphlu, Nepal
+VNPK	Pokhara Airport	Pokhara, Nepal
+VLPS	Pakse International Airport	Pakse, Laos
+VIPT	Pantnagar Airport[1]	Pantnagar, Uttarakhand, India
+VEPT	Lok Nayak Jayaprakash Airport	Patna, Bihar, India
+VEJP	Jeypore Airport[1]	Jeypore, Odisha, India
+VEBU	Bilaspur Airport	Bilaspur, Chhattisgarh, India
+VDPP	Phnom Penh International Airport	Phnom Penh, Cambodia
+VAPR	Porbandar Airport[1]	Porbandar, Gujarat, India
+VAPO	Pune Airport	Pune, Maharashtra, India
+UWPP	Penza Airport (Ternovka Airport)	Penza, Penza Oblast, Russia
+UUYP	Pechora Airport	Pechora, Komi Republic, Russia
+USPP	Perm International Airport (Bolshoye Savino Airport)	Perm, Perm Krai, Russia
+ULPB	Petrozavodsk Airport (Besovets Airport)	Petrozavodsk, Karelia, Russia
+ULOO	Pskov Airport	Pskov, Pskov Oblast, Russia
+UKHP	Poltava Airport[1]	Poltava, Ukraine
+UHPP	Petropavlovsk-Kamchatsky Airport (Yelizovo Airport)	Petropavlovsk-Kamchatsky, Kamchatka Krai, Russia
+UHMP	Pevek Airport	Pevek, Chukotka, Russia
+UHMD	Provideniya Bay Airport	Provideniya, Chukotka, Russia
+UERP	Polyarny Airport	Polyarny, Yakutia, Russia
+UASS	Semey Airport	Semey, Kazakhstan
+UASP	Pavlodar Airport	Pavlodar, Kazakhstan
+UACP	Petropavl Airport	Petropavl (Petropavlovsk), Kazakhstan
+TTPP	Piarco International Airport	Port of Spain, Trinidad and Tobago
+TJPS	Mercedita Airport	Ponce, Puerto Rico
+TFFR	Pointe-à-Pitre International Airport (Le Raizet Airport)	Pointe-à-Pitre, Guadeloupe
+SYPR	Paruima Airport	Paruima, Guyana
+SWPQ	Fazenda Piraguassu Airport	Porto Alegre do Norte, Mato Grosso, Brazil
+SWPM	Pimenta Bueno Airport[1]	Pimenta Bueno, Rondônia, Brazil
+SWPI	Júlio Belém Airport	Parintins, Amazonas, Brazil
+SWPG	Porto dos Gaúchos Airport	Porto dos Gaúchos, Mato Grosso, Brazil
+SVPT	Palmarito Airport[1]	Palmarito, Venezuela
+SVPR	Manuel Carlos Piar Guayana Airport	Ciudad Guayana / Puerto Ordaz, Venezuela
+SVPE	Pedernales Airport[1]	Pedernales, Venezuela
+SVPC	Bartolomé Salom Airport[1]	Puerto Cabello, Venezuela
+SVPA	Cacique Aramare Airport	Puerto Ayacucho, Venezuela
+SVMG	Santiago Mariño Caribbean International Airport	Porlamar, Venezuela
+SUPU	Tydeo Larre Borges International Airport	Paysandú, Uruguay
+SULS	Capitán de Corbeta Carlos A. Curbelo International Airport	Punta del Este, Uruguay
+SSZW	Comte. Antonio Amilton Beraldo Airport[1]	Ponta Grossa, Paraná, Brazil
+SSPN	Paranaíba Airport[1]	Paranaíba, Mato Grosso do Sul, Brazil
+SSPI	Edu Chaves Airport[1]	Paranavaí, Paraná, Brazil
+SSPG	Santos Dumont Airport[1]	Paranaguá, Paraná, Brazil
+SSPB	Juvenal Loureiro Cardoso Airport[1]	Pato Branco, Paraná, Brazil
+SPUR	FAP Captain Guillermo Concha Iberico International Airport	Piura, Peru
+SPTU	Padre Aldamiz International Airport	Puerto Maldonado, Peru
+SPSO	Capitán FAP Renán Elías Olivera Airport	Pisco, Peru
+SPCL	FAP Captain David Abensur Rengifo International Airport	Pucallpa, Peru
+SNZA	Pouso Alegre Airport[1]	Pouso Alegre, Minas Gerais, Brazil
+SNYE	Pinheiro Airport[1]	Pinheiro, Maranhão, Brazil
+SNPX	Pirapora Airport[1]	Pirapora, Minas Gerais, Brazil
+SNPD	Pedro Pereira dos Santos Airport	Patos de Minas, Minas Gerais, Brazil
+SNPC	Picos Airport[1]	Picos, Piauí, Brazil
+SNOS	Passos Airport[1]	Passos, Minas Gerais, Brazil
+SNMZ	Porto de Moz Airport[1]	Porto de Moz, Pará, Brazil
+SMJP	Johan Adolf Pengel International Airport	Paramaribo, Suriname
+SLPS	Puerto Suárez International Airport	Puerto Suárez, Bolivia
+SLPR	Puerto Rico Airport[1]	Puerto Rico, Bolivia
+SLPO	Captain Nicolas Rojas Airport[1]	Potosí, Bolivia
+SKVL	Velasquez Airport[1]	Puerto Boyacá, Colombia
+SKPZ	Paz de Ariporo Airport[1]	Paz de Ariporo, Colombia
+SKPV	El Embrujo Airport	Providencia Island, Colombia
+SKPS	Antonio Nariño Airport	Pasto, Colombia
+SKPR	Morela Airport[1] (Puerto Berrío Airport)	Puerto Berrío, Colombia
+SKPQ	Captain Germán Olano Moreno Air Base[1]	Palanquero, Colombia
+SKPP	Guillermo León Valencia Airport	Popayán, Colombia
+SKPL	Plato Airport[1]	Plato, Colombia
+SKPI	Contador Airport[1]	Pitalito, Colombia
+SKPE	Matecaña International Airport	Pereira, Colombia
+SKPD	Obando Airport	Puerto Inírida, Colombia
+SKPC	Germán Olano Airport	Puerto Carreño, Colombia
+SKAS	Tres de Mayo Airport	Puerto Asís, Colombia
+SIAJ	Faz Taua Airport[1]	Prado, Bahia, Brazil
+SGPJ	Dr. Augusto Roberto Fuster International Airport	Pedro Juan Caballero, Paraguay
+SGPI	Carlos Miguel Jiménez Airport	Pilar, Paraguay
+SFAL	Port Stanley Airport	Stanley, British Overseas Territory of Falkland Islands
+SEPV	Reales Tamarindos Airport	Portoviejo, Ecuador
+SEPT	Putumayo Airport[1]	Puerto El Carmen de Putumayo, Ecuador
+SEPA	Río Amazonas Airport	Shell, Ecuador
+SCTE	El Tepual Airport	Puerto Montt, Chile
+SCTC	Maquehue Airport[1]	Temuco, Chile
+SCPV	El Mirador Airport[1]	Puerto Varas, Chile
+SCNT	Teniente Julio Gallardo Airport	Puerto Natales, Chile
+SCCI	Presidente Carlos Ibáñez del Campo International Airport	Punta Arenas, Chile
+SBUF	Paulo Afonso Airport[1]	Paulo Afonso, Bahia, Brazil
+SBPV	Governador Jorge Teixeira de Oliveira International Airport	Porto Velho, Rondônia, Brazil
+SBPP	Ponta Porã International Airport	Ponta Porã, Mato Grosso do Sul, Brazil
+SBPN	Porto Nacional Airport[1]	Porto Nacional, Tocantins, Brazil
+SBPL	Senador Nilo Coelho Airport	Petrolina, Pernambuco, Brazil
+SBPK	João Simões Lopes Neto International Airport	Pelotas, Rio Grande do Sul, Brazil
+SBPJ	Palmas–Brigadeiro Lysias Rodrigues Airport	Palmas, Tocantins, Brazil
+SBPF	Lauro Kurtz Airport	Passo Fundo, Rio Grande do Sul, Brazil
+SBPC	Poços de Caldas Airport[1]	Poços de Caldas, Minas Gerais, Brazil
+SBPB	Parnaíba-Prefeito Dr. João Silva Filho International Airport	Parnaíba, Piauí, Brazil
+SBPA	Salgado Filho International Airport	Porto Alegre, Rio Grande do Sul, Brazil
+SBMN	Manaus Air Force Base	Manaus, Amazonas, Brazil
+SBDN	Presidente Prudente Airport	Presidente Prudente, São Paulo, Brazil
+SBBH	Belo Horizonte/Pampulha – Carlos Drummond de Andrade Airport	Belo Horizonte, Minas Gerais, Brazil
+SAZP	Comodoro Pedro Zanni Airport	Pehuajó, Buenos Aires, Argentina
+SAWP	Perito Moreno Airport	Perito Moreno, Santa Cruz, Argentina
+SAWD	Puerto Deseado Airport	Puerto Deseado, Santa Cruz, Argentina
+SAVY	El Tehuelche Airport	Puerto Madryn, Chubut, Argentina
+SARS	Presidencia Roque Sáenz Peña Airport	Presidencia Roque Sáenz Peña, Chaco, Argentina
+SARP	Libertador General José de San Martín Airport	Posadas, Misiones, Argentina
+SAAP	General Justo José de Urquiza Airport	Paraná, Entre Ríos, Argentina
+RPVP	Puerto Princesa International Airport	Puerto Princesa, Philippines
+RPMP	Pagadian Airport	Pagadian, Philippines
+RKPK	Gimhae International Airport	Busan, South Korea
+RCDC	Pingtung South Airport[1]	Pingtung City, Taiwan
+PTPN	Pohnpei International Airport	Pohnpei, Federated States of Micronesia
+PPIZ	Point Lay LRRS Airport	Point Lay, Alaska, United States
+PHPA	Port Allen Airport	Hanapepe, Hawaii, United States
+PAPR	Prospect Creek Airport	Prospect Creek, Alaska, United States
+PAPO	Point Hope Airport	Point Hope, Alaska, United States
+PAPN	Pilot Point Airport (FAA: PNP)	Pilot Point, Alaska, United States
+PAPM	Platinum Airport	Platinum, Alaska, United States
+PAPK	Napaskiak Airport	Napaskiak, Alaska, United States
+PAPH	Port Heiden Airport	Port Heiden, Alaska, United States
+PAPG	Petersburg James A. Johnson Airport	Petersburg, Alaska, United States
+PAOC	Portage Creek Airport (FAA: A14)	Portage Creek, Alaska, United States
+PALJ	Port Alsworth Airport (FAA: TPO)	Port Alsworth, Alaska, United States
+PAAQ	Palmer Municipal Airport	Palmer, Alaska, United States
+PAAP	Port Alexander Seaplane Base (FAA: AHP)	Port Alexander, Alaska, United States
+PAAL	Port Moller Airport (FAA: 1AK3)	Cold Bay, Alaska, United States
+OSPR	Palmyra Airport	Palmyra (Tadmur), Syria
+OPZB	Zhob Airport	Zhob, Pakistan
+OPPS	Bacha Khan International Airport	Peshawar, Pakistan
+OPPI	Pasni Airport[1]	Pasni, Pakistan
+OPPG	Panjgur Airport	Panjgur, Pakistan
+OPPC	Parachinar Airport[1]	Parachinar, Pakistan
+OITP	Parsabad-Moghan Airport[1]	Parsabad, Iran
+OIIP	Payam International Airport[1]	Karaj, Iran
+OIBP	Persian Gulf Airport[1]	Asaluyeh (Asaloyeh), Iran
+NZPP	Kapiti Coast Airport	Paraparaumu Beach, New Zealand
+NZPM	Palmerston North Airport	Palmerston North, New Zealand
+NZOK	Picton Aerodrome	Picton, New Zealand
+NWWQ	Mueo/Nickel Airport	Mueo, New Caledonia
+NWWP	Malabou Airport[1]	Poum, New Caledonia
+NVSI	Paama Airport[1]	Paama, Vanuatu
+NTGQ	Pukarua Airport	Pukarua, Tuamotus, French Polynesia
+NTGP	Puka-Puka Airport[1]	Puka-Puka, Tuamotus, French Polynesia
+NTAA	Fa'a'ā International Airport	Papeete, Tahiti, French Polynesia
+NSTU	Pago Pago International Airport	Pago Pago, American Samoa
+NFND	Pacific Harbour Airport[1]	Pacific Harbour, Fiji
+NFFO	Malolo Lailai Airport[1]	Malolo Lailai, Fiji
+NCPY	Tongareva Airport[1]	Penrhyn Atoll, Cook Islands
+NCPK	Pukapuka Island Airfield[1]	Pukapuka Island, Cook Islands
+MZPL	Placencia Airport	Placencia, Belize
+MZPG	Punta Gorda Airport[1]	Punta Gorda, Belize
+MYCP	Pitts Town Airport[1]	Pitts Town, Crooked Island, Bahamas
+MTPX	Port-de-Paix Airport[1]	Port-de-Paix, Haiti
+MTPP	Toussaint L'Ouverture International Airport	Port-au-Prince, Haiti
+MRPM	Palmar Sur Airport	Palmar Sur, Costa Rica
+MRPJ	Puerto Jiménez Airport	Puerto Jiménez, Costa Rica
+MRIA	Punta Islita Airport	Punta Islita, Costa Rica
+MRCR	Carrillo Airport[1] (Playa Samara/Carrillo Airport)	Sámara / Puerto Carrillo, Costa Rica
+MPVR	El Porvenir Airport[1]	El Porvenir, Panama
+MPTO	Tocumen International Airport	Panama City, Panama
+MPOA	Puerto Obaldia Airport[1]	Puerto Obaldía, Panama
+MPMG	Albrook "Marcos A. Gelabert" International Airport	Panama City, Panama
+MPLP	Captain Ramon Xatruch Airport[1]	La Palma, Panama
+MNPC	Puerto Cabezas Airport	Puerto Cabezas, Nicaragua
+MMPS	Puerto Escondido International Airport	Puerto Escondido, Oaxaca, Mexico
+MMPR	Licenciado Gustavo Díaz Ordaz International Airport	Puerto Vallarta, Jalisco, Mexico
+MMPQ	Palenque International Airport[1]	Palenque, Chiapas, Mexico
+MMPL	Punta Colorada Airstrip[1]	La Ribera, Baja California Sur, Mexico
+MMPG	Piedras Negras International Airport	Piedras Negras, Coahuila, Mexico
+MMPE	Puerto Peñasco International Airport	Puerto Peñasco, Sonora, Mexico
+MMPB	Hermanos Serdán International Airport	Puebla City, Puebla, Mexico
+MMPA	El Tajín National Airport	Poza Rica, Veracruz, Mexico
+MKKJ	Ken Jones Aerodrome	Port Antonio, Jamaica
+MHPL	Puerto Lempira Airport[1]	Puerto Lempira, Honduras
+MHPC	Palacios Airport[1]	Palacios, Honduras
+MGPP	Poptún Airport[1]	Poptún, Guatemala
+MGPG	Playa Grande Airport[1]	Playa Grande, Guatemala
+MGPB	Puerto Barrios Airport[1]	Puerto Barrios, Guatemala
+MDPP	Gregorio Luperón International Airport	San Felipe de Puerto Plata, Dominican Republic
+MDPC	Punta Cana International Airport	Punta Cana, Dominican Republic
+MBPV	Providenciales International Airport	"Providenciales, British Overseas Territory
+urks and Caicos Islands"
+MBPI	Pine Cay Airport[1]	Pine Cay, British Overseas Territory of Turks and Caicos Islands
+LZPW	Prešov Air Base[1]	Prešov, Slovakia
+LZPP	Piešťany Airport	Piešťany, Slovakia
+LPPS	Porto Santo Airport	Porto Santo Island, Madeira, Portugal
+LPPM	Portimão Airport	Portimão, Portugal
+LPPI	Pico Airport	Pico Island, Azores, Portugal
+LPPD	João Paulo II Airport	Ponta Delgada, Azores, Portugal
+LKPR	Václav Havel Airport Prague	Prague, Czech Republic
+LKPO	Přerov Airport[1]	Přerov, Czech Republic
+LKPD	Pardubice Airport	Pardubice, Czech Republic
+LJPZ	Portorož Airport	Portorož, Slovenia
+LIRZ	Perugia San Francesco d'Assisi – Umbria International Airport	Perugia, Umbria, Italy
+LIRP	Pisa International Airport (Galileo Galilei Airport)	Pisa, Tuscany, Italy
+LIMP	Parma Airport (Giuseppe Verdi Airport)	Parma, Emilia-Romagna, Italy
+LICJ	Falcone–Borsellino Airport (Punta Raisi Airport)	Palermo, Sicily, Italy
+LICG	Pantelleria Airport[1]	Pantelleria, Sicily, Italy
+LIBP	Abruzzo Airport	Pescara, Abruzzo, Italy
+LHPP	Pécs-Pogány International Airport[1]	Pécs, Hungary
+LGPZ	Aktion National Airport	Preveza / Lefkada, Greece
+LGPA	Paros National Airport	Paros, Greece
+LGHL	Porto Cheli Airport	Porto Cheli (Portochelion), Greece
+LGAD	Andravida Air Base[1]	Pyrgos, Greece
+LFPT	Pontoise – Cormeilles Aerodrome	Paris, Île-de-France, France
+LFMP	Perpignan–Rivesaltes Airport	Perpignan, Languedoc-Roussillon, France
+LFKO	Propriano Airport	Propriano, Corsica, France
+LFBX	Périgueux Bassillac Airport	Périgueux, Aquitaine, France
+LFBP	Pau Pyrénées Airport	Pau, Aquitaine, France
+LFBI	Poitiers–Biard Airport	Poitiers, Poitou-Charentes, France
+LEPP	Pamplona Airport	Pamplona, Navarre, Spain
+LEPA	Palma de Mallorca Airport	Palma de Mallorca, Balearic Islands, Spain
+LDPL	Pula Airport	Pula, Croatia
+LCPH	Paphos International Airport	Paphos, Cyprus
+LBPD	Plovdiv Airport	Plovdiv, Bulgaria
+KPYM	Plymouth Municipal Airport	Plymouth, Massachusetts, United States
+KPWT	Bremerton National Airport	Bremerton, Washington, United States
+KPWM	Portland International Jetport	Portland, Maine, United States
+KPWK	Chicago Executive Airport	Chicago, Illinois, United States
+KPWD	Sher-Wood Airport	Plentywood, Montana, United States
+KPWA	Wiley Post Airport	Oklahoma City, Oklahoma, United States
+KPVW	Hale County Airport	Plainview, Texas, United States
+KPVU	Provo Municipal Airport	Provo, Utah, United States
+KPVF	Placerville Airport	Placerville, California, United States
+KPVD	Theodore Francis Green State Airport	Providence, Rhode Island, United States
+KPVC	Provincetown Municipal Airport	Provincetown, Massachusetts, United States
+KPUW	Pullman–Moscow Regional Airport	Pullman / Moscow (ID), Washington, United States
+KPUC	Carbon County Regional Airport	Price, Utah, United States
+KPUB	Pueblo Memorial Airport	Pueblo, Colorado, United States
+KPTW	Heritage Field	Pottstown, Pennsylvania, United States
+KPTV	Porterville Municipal Airport	Porterville, California, United States
+KPTT	Pratt Regional Airport	Pratt, Kansas, United States
+KPTS	Atkinson Municipal Airport	Pittsburg, Kansas, United States
+KPTN	Harry P. Williams Memorial Airport	Patterson, Louisiana, United States
+KPTK	Oakland County International Airport	Pontiac, Michigan, United States
+KPTB	Dinwiddie County Airport	Petersburg, Virginia, United States
+KPSX	Palacios Municipal Airport	Palacios, Texas, United States
+KPSP	Palm Springs International Airport	Palm Springs, California, United States
+KPSO	Stevens Field (FAA: PSO)	Pagosa Springs, Colorado, United States
+KPSN	Palestine Municipal Airport	Palestine, Texas, United States
+KPSM	Portsmouth International Airport at Pease	Portsmouth, New Hampshire, United States
+KPSK	New River Valley Airport	Dublin, Virginia, United States
+KPSF	Pittsfield Municipal Airport	Pittsfield, Massachusetts, United States
+KPSC	Tri-Cities Airport	Pasco, Washington, United States
+KPSB	Mid-State Regional Airport	Rush Township, Centre County, Pennsylvania, United States
+KPRX	Cox Field	Paris, Texas, United States
+KPRO	Perry Municipal Airport	Perry, Iowa, United States
+KPRC	Ernest A. Love Field	Prescott, Arizona, United States
+KPRB	Paso Robles Municipal Airport	Paso Robles, California, United States
+KPQL	Trent Lott International Airport (FAA: PQL)	Pascagoula, Mississippi, United States
+KPQI	Northern Maine Regional Airport at Presque Isle	Presque Isle, Maine, United States
+KPPF	Tri-City Airport	Parsons, Kansas, United States
+KPPA	Perry Lefors Field	Pampa, Texas, United States
+KPOY	Powell Municipal Airport	Powell / Lovell, Wyoming, United States
+KPOU	Dutchess County Airport	Poughkeepsie, New York, United States
+KPOH	Pocahontas Municipal Airport	Pocahontas, Iowa, United States
+KPOF	Poplar Bluff Municipal Airport	Poplar Bluff, Missouri, United States
+KPOE	Maks Army Airfield[3]	Fort Johnson, Louisiana, United States
+KPOC	Brackett Field	La Verne, California, United States
+KPOB	Pope Field (Pope AFB)	Fort Liberty, North Carolina, United States
+KPNS	Pensacola International Airport	Pensacola, Florida, United States
+KPNN	Princeton Municipal Airport	Princeton, Maine, United States
+KPNE	Northeast Philadelphia Airport	Philadelphia, Pennsylvania, United States
+KPNC	Ponca City Regional Airport	Ponca City, Oklahoma, United States
+KPNA	Ralph Wenz Field (FAA: PNA)	Pinedale, Wyoming, United States
+KPMP	Pompano Beach Airpark (FAA: PMP)	Pompano Beach, Florida, United States
+KPMH	Greater Portsmouth Regional Airport	Portsmouth, Ohio, United States
+KPMD	Palmdale Regional Airport	Palmdale, California, United States
+KPMB	Pembina Municipal Airport	Pembina, North Dakota, United States
+KPLR	St. Clair County Airport	Pell City, Alabama, United States
+KPLN	Pellston Regional Airport (Emmet County)	Pellston, Michigan, United States
+KPLK	M. Graham Clark Downtown Airport	Point Lookout, Missouri, United States
+KPKF	Park Falls Municipal Airport	Park Falls, Wisconsin, United States
+KPKD	Park Rapids Municipal Airport (Konshok Field)	Park Rapids, Minnesota, United States
+KPKB	Mid-Ohio Valley Regional Airport	Parkersburg, West Virginia, United States
+KPIT	Pittsburgh International Airport	Pittsburgh, Pennsylvania, United States
+KPIR	Pierre Regional Airport	Pierre, South Dakota, United States
+KPIM	Harris County Airport	Pine Mountain, Georgia, United States
+KPIH	Pocatello Regional Airport	Pocatello, Idaho, United States
+KPIE	St. Pete–Clearwater International Airport	St. Petersburg / Clearwater, United States
+KPIB	Hattiesburg–Laurel Regional Airport	Hattiesburg / Laurel, Mississippi, United States
+KPIA	General Wayne A. Downing Peoria International Airport	Peoria, Illinois, United States
+KPHX	Phoenix Sky Harbor International Airport	Phoenix, Arizona, United States
+KPHT	Henry County Airport	Paris, Tennessee, United States
+KPHP	Philip Airport	Philip, South Dakota, United States
+KPHN	St. Clair County International Airport	Port Huron, Michigan, United States
+KPHL	Philadelphia International Airport	Philadelphia, Pennsylvania, United States
+KPHK	Palm Beach County Glades Airport	Pahokee, Florida, United States
+KPHF	Newport News/Williamsburg International Airport	Newport News / Williamsburg, Virginia, United States
+KPHD	Harry Clever Field	New Philadelphia, Ohio, United States
+KPGV	Pitt–Greenville Airport	Greenville, North Carolina, United States
+KPGR	Kirk Field	Paragould, Arkansas, United States
+KPGD	Punta Gorda Airport	Punta Gorda, Florida, United States
+KPGA	Page Municipal Airport	Page, Arizona, United States
+KPFC	Pacific City State Airport	Pacific City, Oregon, United States
+KPEQ	Pecos Municipal Airport	Pecos, Texas, United States
+KPDX	Portland International Airport	Portland, Oregon, United States
+KPDT	Eastern Oregon Regional Airport	Pendleton, Oregon, United States
+KPDK	DeKalb–Peachtree Airport	Atlanta, Georgia, United States
+KPDC	Prairie du Chien Municipal Airport (FAA: PDC)	Prairie du Chien, Wisconsin, United States
+KPBX	Pike County Airport[1] (FAA: PBX)	Pikeville, Kentucky, United States
+KPBI	Palm Beach International Airport	West Palm Beach, Florida, United States
+KPBG	Plattsburgh International Airport	Plattsburgh, New York, United States
+KPBF	Grider Field	Pine Bluff, Arkansas, United States
+KPAO	Palo Alto Airport (Santa Clara County Airport)	Palo Alto, California, United States
+KPAN	Payson Airport (FAA: PAN)	Payson, Arizona, United States
+KPAM	Tyndall Air Force Base	Panama City, Florida, United States
+KPAH	Barkley Regional Airport	Paducah, Kentucky, United States
+KPAE	Paine Field (Snohomish County Airport)	Everett, Washington, United States
+KGYI	North Texas Regional Airport (FAA: GYI)	Sherman / Denison, Texas, United States
+HUPA	Pakuba Airfield	Pakuba, Uganda
+HTPE	Pemba Airport[1]	Pemba Island, Tanzania
+HSPN	Port Sudan New International Airport	Port Sudan, Sudan
+HEPS	Port Said Airport[1]	Port Said, Egypt
+GOSP	Podor Airport	Podor, Senegal
+FZVS	Ilebo Airport[1]	Ilebo, Democratic Republic of the Congo
+FZQC	Pweto Airport[1]	Pweto, Democratic Republic of the Congo
+FZOP	Punia Airport[1]	Punia, Democratic Republic of the Congo
+FXPG	Pelaneng Airport[1]	Pelaneng, Lesotho
+FTTP	Pala Airport[1]	Pala, Chad
+FSPP	Praslin Island Airport	Praslin Island, Seychelles
+FQPO	Ponta do Ouro Airport[1]	Ponta do Ouro, Mozambique
+FQPB	Pemba Airport	Pemba, Mozambique
+FPPR	Príncipe Airport[1]	Príncipe Island, São Tomé and Príncipe
+FOOG	Port-Gentil International Airport	Port-Gentil, Gabon
+FNPA	Porto Amboim Airport[1]	Porto Amboim, Angola
+FNCH	Chitato Airport[1]	Chitato, Angola
+FCPP	Pointe Noire Airport	Pointe-Noire, Republic of the Congo
+FBSP	Selebi-Phikwe Airport	Selebi-Phikwe, Botswana
+FAWB	Wonderboom Airport	Pretoria, South Africa
+FAPS	Potchefstroom Airport[1]	Potchefstroom, South Africa
+FAPP	Polokwane International Airport	Polokwane, South Africa
+FAPM	Pietermaritzburg Airport	Pietermaritzburg, South Africa
+FAPK	Prieska Airport[1]	Prieska, South Africa
+FAPH	Hendrik Van Eck Airport	Phalaborwa, South Africa
+FAPG	Plettenberg Bay Airport[1]	Plettenberg Bay, South Africa
+FAPE	Port Elizabeth Airport	Port Elizabeth, South Africa
+FADQ	Zulu Inyala Airport[1]	Phinda, South Africa
+EYPP	Panevėžys Air Base[1] (Pajuostis Airport)	Panevėžys, Lithuania
+EYPA	Palanga International Airport	Palanga, Lithuania
+ESUP	Pajala Airport	Pajala, Sweden
+EPPO	Poznań–Ławica Airport	Poznań, Poland
+EGPT	Perth Airport (Scone Airport)	Perth, Scotland, United Kingdom
+EGPK	Glasgow Prestwick Airport	Glasgow, Scotland, United Kingdom
+EGHD	Plymouth City Airport	Plymouth, England, United Kingdom
+EGEP	Papa Westray Airport	Papa Westray, Scotland, United Kingdom
+EFPO	Pori Airport	Pori, Finland
+EDXO	Sankt Peter-Ording Airport[1]	Sankt Peter-Ording, Schleswig-Holstein, Germany
+EDLP	Paderborn Lippstadt Airport	Paderborn / Lippstadt, North Rhine-Westphalia, Germany
+EDCP	Peenemünde Airfield[1]	Peenemünde, Mecklenburg-Vorpommern, Germany
+DNPO	Port Harcourt International Airport	Port Harcourt, Nigeria
+DFCP	Pô Airport	Pô, Burkina Faso
+DBBP	Parakou Airport	Parakou, Benin
+CZMN	Pikwitonei Airport[1]	Pikwitonei, Manitoba, Canada
+BKPR	Pristina International Airport Adem Jashari	Pristina, Kosovo
+BIPA	Patreksfjörður Airport	Patreksfjörður, Iceland
+AYPY	Jacksons International Airport	Port Moresby, Papua New Guinea
+AYGR	Girua Airport[1]	Popondetta, Papua New Guinea
+AGGP	Parasi Airport[1]	Parasi, Solomon Islands
