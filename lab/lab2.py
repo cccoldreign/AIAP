@@ -28,10 +28,16 @@ class Sphere:
 
 earth = Sphere(6371)
 
-moscow = Point(55.7558, 37.6176)
-new_york = Point(40.7128, -74.0060)
+perm = Point(58.064211, 56.363566)
+spb = Point(59.93861, 30.31411)
+zero = Point(0.0, 0.0)
+negative = Point(-20.0, -20.0)
 
-earth.addPoint(moscow)
-earth.addPoint(new_york)
+earth.addPoint(perm)
+earth.addPoint(spb)
+earth.addPoint(zero)
+earth.addPoint(negative)
 
-print(earth.calcDist(moscow, new_york))
+print(earth.calcDist(perm, spb))
+print(earth.calcDist(perm, zero))
+print(earth.calcDist(spb, negative))
